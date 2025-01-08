@@ -1,18 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    width: 100%;
+    table-layout: fixed;
+}
 
-/* Your CSS Code here. */
-table,th,td{
-	border:1px solid black;
-	width:100%;
-	table-layout:fixed;
+td {
+    text-align: right;
 }
-td{
-	text-align:right;
-	
+
+th {
+    text-align: left;
 }
-th{
-	text-align:left;
-	
-}
-#h{
-	text-align:left;
+
+#h {
+    text-align: left;
 }
