@@ -5,3 +5,14 @@ table,th,td{
 	width:100%;
 	table-layout:fixed;
 }
+td{
+	text-align:right;
+	
+}
+th{
+	text-align:left;
+	
+}
+#h{
+	text-align:left;
+}
